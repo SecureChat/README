@@ -2,4 +2,10 @@
 
 (Sorted by the joining time)
 
-Peidong Wang, Linfeng Yu, Jie Liang, Mingfei Sun
+Peidong Wang
+
+Linfeng Yu
+
+Jie Liang
+
+Mingfei Sun
