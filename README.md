@@ -2,12 +2,12 @@
 
 Here is the motivation of this project.
 
-Imagine you want to send your bank account number and its password to one of your relatives. What application will you use? Are you sure that the service provider will not monitor or leak your information?
+Imagine we want to send your bank account number and its password to one of our relatives. What application will we use? Are we sure that the service provider will not monitor or leak your information?
 
 You might say that the application you are using is safe according to the service providers. Are they telling you they use end-to-end encryption or some other "fancy" techniques? Then try to answer this question, **"What if they add backdoors in their applications?"**
 
-Moreover, you might ask whether it is safe if we use voice messages. **If you are able to edit texts with speech recognition techniques, the service providers are able to do so, too.**
+Moreover, you might ask whether it is safe if we use voice messages rather than texts. **If you are able to edit texts with speech recognition techniques, the service providers are able to do so, too.**
 
-Since we cannot get full access to the source code of current social platforms and instant message applications, a fully open sourced social platform may be the only answer to information safety.
+Since we cannot get full access to the source code of current social platforms and instant message applications, a fully open sourced social platform may be the only answer to the safety of our information.
 
 <p align='center'>04/11/2016<br>Peidong Wang</p>
