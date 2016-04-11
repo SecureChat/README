@@ -8,4 +8,4 @@ Perhaps you will say that the application you are using is safe according to the
 
 Since we cannot get full access to the source code of current social platforms and instant message applications, a fully open sourced social platform may be the only answer to information safety.
 
-
+<p align='center'>04/10/2016<br>Peidong Wang</p>
