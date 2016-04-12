@@ -8,6 +8,8 @@ You might say that the application you are using is safe according to the servic
 
 Moreover, you might ask whether it is safe if we use voice messages instead. **If you are able to edit texts with speech recognition techniques, the service providers are able to do so, too.**
 
-Since we cannot get full access to the source code of current social platforms and instant message applications, a fully open sourced social platform may be the only answer to the safety of our information.
+Since we cannot get full access to the source code of current social platforms and instant message applications, a fully open sourced social platform may be the only method to protect our information.
+
+
 
 <p align='center'>04/11/2016<br>Peidong Wang</p>
