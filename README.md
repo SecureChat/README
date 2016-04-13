@@ -8,6 +8,9 @@ Moreover, you might ask whether it is safe if we use voice messages instead of t
 
 Since we cannot get full access to the source code of current social platforms and instant message applications, a fully open sourced social platform may be the only method to protect our information.
 
+There were many open source projects that tried to offer an alternative to the mainstream social platforms. But as far as we know, none of them succeeded.
+
+Generally speaking, there are two categories of such open source social methods. The first category of methods generates a unique ID with the application and uses this ID to identify the user. Besides some technical issues, the main problem of this category of methods is that it is difficult to add friends since the ID is isolate with other contact information of the friends. The second category of methods uses XMPP services. One big problem is that 
 
 
-<p align='center'>04/12/2016<br>Peidong Wang</p>
+<p align='center'>04/13/2016<br>Peidong Wang</p>
