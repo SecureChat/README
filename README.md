@@ -18,6 +18,6 @@ Email service is one of the most widely used free services on the Internet. It i
 
 From another perspective, our solution can be viewed as an Email client. By showing nothing but emails relevant to our application, it filters out many trash Emails and makes the email reading experience much better.
 
-We view our project as a complementary of mainstream social platforms, an introduction to other technically advanced decentralized communication solutions and a trade-off between easy accessibility and technology.
+We view our project as a complementary of mainstream social platforms, an introduction to other technically advanced decentralized communication solutions and a trade-off between technology and easy accessibility.
 
 <p align='center'>04/13/2016<br>Peidong Wang</p>
