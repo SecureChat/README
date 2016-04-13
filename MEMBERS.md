@@ -1,6 +1,6 @@
 ## Board Members
 
-(in the order of joining time)
+(In the Order of Joining Time)
 
 Peidong Wang
 
@@ -16,6 +16,6 @@ Xiaoqian Mu
 
 ## Members
 
-(in the order of joining time)
+(In the Order of Joining Time)
 
 
