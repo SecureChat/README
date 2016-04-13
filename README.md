@@ -1,6 +1,6 @@
 ## README
 
-Imagine we want to send our bank account numbers and their passwords to our relatives. What application can we use? Is it sure that the service provider will not monitor or leak our information?
+Imagine we want to send our bank account numbers and their passwords to our relatives. What application can we use? Can we guarantee that the service provider will not monitor or leak our information?
 
 You might say that the application you are using is safe according to the service providers. Are they telling you they use end-to-end encryption or some other "fancy" techniques? Then try to answer this question, **"What if they add backdoors in their applications?"**
 
@@ -14,9 +14,9 @@ Generally speaking, there are two categories of such open source methods. The fi
 
 Having reviewed many of the existing products and considered the problem of feasibility, we proposed a **_Self-Organized Social Network Based on Emails_**.
 
-Email service is one of the most widely used free services on the Internet. It is even possible for an individual user to establish his/her own email server. In addition, Email service provides an extra layer in the communication process, which allows users to edit texts by themselves. Taking advantage of this extra layer, we may encode the content of our email to protect our private information.
+Email service is one of the most widely used free services on the Internet. It is even possible for an individual user to establish his/her own email server. In addition, Email service provides an extra layer in the communication process, which allows users to edit texts by themselves. Taking advantage of this extra layer, we may encode the content of our email and thus protecting our private information.
 
-From another perspective, our application can be viewed as an Email client. By showing nothing but emails relevant to our application, it filters out many trash Emails and makes the email reading experience better.
+From another perspective, our application can be viewed as an Email client. By showing nothing but emails relevant to our application, it filters out many trash Emails and makes the email reading experience feel better.
 
 We view our project as a complementary of mainstream social platforms, an introduction to more technically advanced distributed communication solutions and a trade-off between technology and easy accessibility.
 
