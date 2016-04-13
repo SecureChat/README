@@ -1,4 +1,4 @@
-## Core Members
+## Board
 
 (Sorted by the joining time)
 
@@ -13,3 +13,9 @@ Mingfei Sun
 Xiaoyu Liu
 
 Xiaoqian Mu
+
+## Members
+
+(Sorted by the joining time)
+
+
