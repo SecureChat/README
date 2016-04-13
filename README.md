@@ -20,4 +20,6 @@ From another perspective, our application can be viewed as an Email client. By s
 
 We view our application as a complementary of mainstream social platforms, an introduction to more technically advanced distributed communication solutions and a trade-off between technology and easy accessibility.
 
+If you have any questions or suggestions, don't hesitate to contact us at (securechatemail@gmail.com)[mailto: securechatemail@gmail.com]
+
 <p align='center'>04/13/2016<br>Peidong Wang</p>
