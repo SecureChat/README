@@ -24,4 +24,4 @@ We view our application as a complementary of mainstream social platforms, an in
 
 If you have any questions or suggestions, contact us at securechatemail@gmail.com.
 
-<p align='center'>04/13/2016<br>Peidong Wang</p>
+<p align='center'>Last Update<br>04/13/2016</p>
