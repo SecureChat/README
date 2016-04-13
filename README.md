@@ -16,8 +16,8 @@ Having reviewed many of the existing products and considered the problem of feas
 
 Email service is one of the most widely used free services on the Internet. It is even possible for an individual user to establish his/her own email server. In addition, Email service provides an extra layer in the communication process, which allows users to edit texts by themselves. Taking advantage of this extra layer, we may encode the content of our email and thus protecting our private information.
 
-From another perspective, our application can be viewed as an Email client. By showing nothing but emails relevant to our application, it filters out many trash Emails and makes the email reading experience feel better.
+From another perspective, our application can be viewed as an Email client. By showing nothing but emails relevant to our application, it filters out many trash Emails and makes the email reading experience better.
 
-We view our project as a complementary of mainstream social platforms, an introduction to more technically advanced distributed communication solutions and a trade-off between technology and easy accessibility.
+We view our application as a complementary of mainstream social platforms, an introduction to more technically advanced distributed communication solutions and a trade-off between technology and easy accessibility.
 
 <p align='center'>04/13/2016<br>Peidong Wang</p>
