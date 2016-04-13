@@ -10,7 +10,7 @@ Since we cannot get full access to the source code of current social platforms a
 
 There were many open source projects that tried to offer an alternative to the mainstream social platforms. But as far as we know, none of them succeeded.
 
-Generally speaking, there are two categories of such open source social methods. The first category of methods generates a unique ID with the application and uses this ID to identify the user. Besides some technical issues, the main problem of this category of methods is that it is difficult to add friends since the ID is isolate with other contact information of the friends. The second category of methods uses XMPP services. One big problem is that 
+Generally speaking, there are two categories of such open source social methods. The first category of methods generates a unique ID with the application and uses this ID to identify the user. Besides some technical issues, the main problem of this category of methods is that it is difficult to add friends since the ID is isolate with other contact information of the friends. The second category of methods uses XMPP services. Besides some technical issues, one big problem is that there isn't many reliable free XMPP servers.
 
 
 <p align='center'>04/13/2016<br>Peidong Wang</p>
