@@ -10,7 +10,10 @@ Since we cannot get full access to the source code of current social platforms a
 
 There were many open source projects that tried to offer an alternative to the mainstream social platforms. But as far as we know, none of them succeeded.
 
-Generally speaking, there are two categories of such open source social methods. The first category of methods generates a unique ID with the application and uses this ID to identify the user. Besides some technical issues, the main problem of this category of methods is that it is difficult to add friends since the ID is isolate with other contact information of the friends. The second category of methods uses XMPP services. Besides some technical issues, one big problem is that there isn't many reliable free XMPP servers.
+Generally speaking, there are two categories of such open source social methods. The first category of methods generates a unique ID with the application and uses this ID to identify the user. Besides some technical issues, the main problem of this category of methods is that it is difficult to add friends since the ID is isolate with other contact information of the friends. The second category of methods uses XMPP services. Besides some technical issues, one big problem is that there isn't many reliable free XMPP servers. **These methods are all great in terms of technology, but a successful application is not all about technology.**
 
+Having reviewed many of the existing products and considered the problem of feasibility, we proposed a _Self-Organized Social Network Based on Emails_.
+
+<!--Email service is one of the most widely used free services on the Internet. It provides an extra layer in the communication process, which allows users to edit the text by themselves. This is the major difference against the mainstream social platforms, which sends the original text -->
 
 <p align='center'>04/13/2016<br>Peidong Wang</p>
