@@ -1,6 +1,6 @@
 ## README
 
-Imagine we want to send our bank account numbers and their passwords to our relatives. What application can we use? Can we guarantee that the service provider will not monitor or leak our information?
+Imagine we want to send our bank account numbers and their passwords to our relatives. What application can we use? Can we guarantee that the service provider will not **monitor** or **leak** our information?
 
 You might say that the application you are using is safe according to the service providers. Are they telling you they use end-to-end encryption or some other "fancy" techniques? Then try to answer this question, **"What if they add backdoors in their applications?"**
 
