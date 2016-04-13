@@ -1,4 +1,4 @@
-## Board
+## Board Members
 
 (Sorted by the joining time)
 
