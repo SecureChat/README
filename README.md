@@ -20,7 +20,7 @@ From another perspective, our application can be viewed as an Email client. By s
 
 We view our application as a complementary of mainstream social platforms, an introduction to more technically advanced distributed communication solutions and a trade-off between technology and easy accessibility.
 
-**Any usage of this application should obey local laws and regulations. Users should take full responsibility of messages conveyed by this application. All kinds of inappropriate messages are highly discouraged.**
+**Any usage of this application should obey local laws and regulations. Users should take full responsibility of messages conveyed by this application. All kinds of inappropriate messages are highly discouraged. Other than developing uses, this application is not allowed to be spread or used in P.R.China.**
 
 If you have any questions or suggestions, contact us at securechatemail@gmail.com.
 
