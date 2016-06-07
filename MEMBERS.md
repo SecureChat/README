@@ -6,11 +6,7 @@ Peidong Wang
 
 Linfeng Yu
 
-Jie Liang
-
 Mingfei Sun
-
-Xiaoyu Liu
 
 Xiaoqian Mu
 
@@ -18,4 +14,4 @@ Xiaoqian Mu
 
 (In the Order of Joining Time)
 
-<p align='center'>Last Update<br>04/13/2016 (GMT)</p>
+<p align='center'>Last Update<br>06/07/2016 (GMT)</p>
